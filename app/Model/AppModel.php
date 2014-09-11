@@ -37,7 +37,7 @@ class AppModel extends Model {
  * 
  * @var string
  */
-	public $useDbConfig = 'test';
+//	public $useDbConfig = 'test';
 
 /**
  * 検索対象フィールド格納配列
